@@ -1,4 +1,4 @@
-\# 🩺 Heart Disease Prediction (UCI Dataset)
+# 🩺 Heart Disease Prediction (UCI Dataset)
 
 
 
@@ -6,7 +6,7 @@ This is an end-to-end machine learning project built to predict the presence of 
 
 
 
-\## 🧠 Problem
+## 🧠 Problem
 
 
 
@@ -14,35 +14,35 @@ Can we predict whether a patient has heart disease based on 13 clinical attribut
 
 
 
-\## 📊 Dataset
+## 📊 Dataset
 
 
 
-\- Source: \[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)
+- Source: \[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)
 
-\- Also available on \[Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
-
-
-
-\## 🛠️ Technologies Used
+- Also available on \[Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
 
 
 
-\- Python (Jupyter Notebook)
-
-\- Pandas, NumPy
-
-\- Matplotlib, Seaborn
-
-\- Scikit-learn (Logistic Regression, KNN, Random Forest)
-
-\- Model evaluation: Precision, Recall, F1 Score, ROC-AUC
-
-\- Hyperparameter tuning: RandomizedSearchCV
+## 🛠️ Technologies Used
 
 
 
-\## 📈 Workflow
+- Python (Jupyter Notebook)
+
+- Pandas, NumPy
+
+- Matplotlib, Seaborn
+
+- Scikit-learn (Logistic Regression, KNN, Random Forest)
+
+- Model evaluation: Precision, Recall, F1 Score, ROC-AUC
+
+- Hyperparameter tuning: RandomizedSearchCV
+
+
+
+## 📈 Workflow
 
 
 
@@ -60,7 +60,7 @@ Can we predict whether a patient has heart disease based on 13 clinical attribut
 
 
 
-\## ✅ Results
+## ✅ Results
 
 
 
@@ -68,15 +68,15 @@ Achieved over \*\*95% accuracy\*\* with Random Forest after hyperparameter tunin
 
 
 
-\## 🧭 Next Steps
+## 🧭 Next Steps
 
 
 
-\- Explore XGBoost or LightGBM
+- Explore XGBoost or LightGBM
 
-\- Apply feature selection techniques
+- Apply feature selection techniques
 
-\- Extend with time-based or external datasets
+- Extend with time-based or external datasets
 
 
 
